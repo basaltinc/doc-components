@@ -1,0 +1,25 @@
+{
+  "name": "@basalt/doc-components",
+  "version": "0.0.0",
+  "description": "Components to document components in a design system or styleguide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/basaltinc/doc-components.git"
+  },
+  "keywords": [
+    "design-system",
+    "styleguide",
+    "components",
+    "basalt"
+  ],
+  "author": "Basalt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/basaltinc/doc-components/issues"
+  },
+  "homepage": "https://github.com/basaltinc/doc-components#readme"
+}
